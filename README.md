@@ -21,3 +21,6 @@ Highlight a section of the score. Be careful to leave room with rests, it will w
 Click plugins > textToMorse
 The UI will appear and you can type in your text. Select a pitch, and a unit of smallest rhythm. Click
 translate and the morseCode will appear.
+
+
+Updated Disclaimer: The thumbnail Image was made entirely using AI
