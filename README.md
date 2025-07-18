@@ -1,7 +1,7 @@
 # textToMorse
 Description:
 
-This is a plug for Musescore 4, it's purpose is to translate user inputted text into morse code and places it into the score. 
+This is a plugin for Musescore 4, it's purpose is to translate user inputted text into morse code and places it into the score. 
 This code was created using a combination of reverse engineering other plugins,
 and messing around with chatGPT. It is my first ever attempt at creating a plugin.
 If there are strong conventions for making plugins, I don't know them yet. I tried my hardest 
