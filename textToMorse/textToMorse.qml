@@ -19,10 +19,6 @@ MuseScore {
         id: dialog
         anchors.fill: parent
 
-        //I'm unsure why the layout is so messed up
-        // The button should be above the dropdowns, but it isn't, 
-        //along with some awkwards spacing. I apologize for the ugliness,
-        //this is just my first plugin
         ColumnLayout {
             anchors.centerIn: parent
             spacing: 20
